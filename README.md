@@ -16,10 +16,12 @@ Set the max height for dropdown list (not include the button):
 
     dropdownList.dropdownMaxHeight(150)
 
-You can also change the default color of it by calling one of these methods:
+The default color can be changed by calling one of these methods:
 
     dropdownColor(backgroundColor:, selectedColor:, textColor:)
     dropdownColor(backgroundColor:, buttonColor:, selectedColor:, textColor:)
+    
+You also need to provide the up and down arrow images, please check the sample project for more details.
 
 To get the selected value in the list, set delegate and implement this method:
 
@@ -32,6 +34,7 @@ To get the selected value in the list, set delegate and implement this method:
 Now your dropdown list is ready to use.
 
 # Screenshots:
+![Alt text](https://github.com/LucyNguyen/EDropdownList/blob/master/Screenshots/screenshot.png?raw=true "")
 
 # License:
 This component is under MIT License.
