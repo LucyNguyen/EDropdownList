@@ -1,7 +1,9 @@
 # EDropdownList
-A custom dropdown list in iOS.
+A custom dropdown list written in Swift 2.
 
 # How to use:
+Simply import EDropdownList.swift file into your project.
+
 Drap and drop a UIView to your storyboard, set it class to EDropdownList.
 The size of this view is also dropdown button size. You can set the max size for dropdown list later.
 
@@ -28,6 +30,8 @@ To get the selected value in the list, set delegate and implement this method:
     }
 
 Now your dropdown list is ready to use.
+
+# Screenshots:
 
 # License:
 This component is under MIT License.
