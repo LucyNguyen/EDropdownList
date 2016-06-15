@@ -5,7 +5,7 @@
 //  Created by Lucy Nguyen on 11/10/15.
 //  Copyright © 2015 econ. All rights reserved.
 //
-//  This class is used for creating custom dropdown list in iOS.
+//  This class is used for creating custom dropdown list in iOS in Swift.
 
 import UIKit
 
